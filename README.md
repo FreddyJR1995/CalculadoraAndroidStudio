@@ -15,3 +15,8 @@ Se toma el valor ingresado, con un for se realizan las multiplicación susecivas
 Finalmente para calcular las operaciones de varios operandos primero declaramos una variable respuesta, suego con un switch analizamos todos los casos para la variable opcion si es una hara la suma entre el valor almacenado y el ultimo ingresado. Asi mismo con la resta, multiplicación y división. Cabe recalcar que en la división se controla cunado el divisor el 0 ya que esa divisón no se puede realizar.</br>
 <h3>Función Limpiar</h3></br>
 Por ultimo esta función solo borrar el display.</br>
+<p align="center">
+  <img src="/imagenes/imagen1.jpg" width="350">
+  <img src="/imagenes/imagen2.jpg" width="350">
+  <img src="/imagenes/imagen3.jpg" width="350">
+</p>
